@@ -153,3 +153,6 @@ pnpm-debug.log*
 
 # Database stuff
 *.db
+
+# key file
+keys.py
