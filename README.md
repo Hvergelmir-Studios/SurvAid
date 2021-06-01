@@ -39,3 +39,19 @@ Install using `npm install vue`
 
 [Axios](https://www.npmjs.com/package/axios) is a package that is used for basic http request to the API server.
 Install using `npm install axios`
+
+8. CLI
+
+CLI is used to build the Vue.js app with Webpackers
+Install using `npm install - @vue/cli`
+
+
+## Running the server
+
+For the API server, make sure the current directory is `SurvAidServer` and run the command `python manage.py runserver 8000`
+In the browser, go to localhost:8000 and confirm the Django server page is up.
+
+## Running the front-end
+
+For the front-end, make sure the current directory is `survaid-frontend` and run the command `npm run serve`
+In the browser, go to localhost:8080 and confirm the Vue.js app page is up.
