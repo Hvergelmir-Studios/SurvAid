@@ -2,8 +2,10 @@
 A teacher-student survey interaction that collects anonymous results from performed experiments.
 
 ## 1. Installments
+
 	In order for the project to work, the machine it is running on will require the following technologies.
 	They will be installed using the commands as described.
+
 	#### 1. Python and pip
 		
 		Go [here](https://www.python.org/) and download the latest Python build, pip should install with it.
