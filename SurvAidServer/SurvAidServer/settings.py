@@ -59,6 +59,8 @@ CORS_ALLOWED_ORIGINS = [
     'https://localhost:8080',
 ]
 
+AUTH_USER_MODEL = 'core.User'
+
 ROOT_URLCONF = 'SurvAidServer.urls'
 
 TEMPLATES = [
